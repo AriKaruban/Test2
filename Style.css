@@ -17,7 +17,11 @@ body, label, input, button, select {
   font-family: 'Cherry Swash',
   font-weight: 200;
 }
-h1, h2, h3, h4 { font-weight: 400; }
+tags$link(
+    rel = "stylesheet", 
+    href="http://fonts.googleapis.com/css?family=Cherry Swash"
+  ),
+  tags$style("h1{font-family: 'Cherry Swash'}"), h2, h3, h4 { font-weight: 400; }
 
 #controls {
   /* Appearance */
