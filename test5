@@ -50,11 +50,9 @@ h1, h2, h3, h4 { font-weight: 400; }
 /* Top Navigation Bar */
 .navbar-fixed-top {
   min-height: 0;
-  height: 45px;
   padding: 0;
   margin-bottom: 0;
 }
-.navbar-header{
-  height: 35px;
-  padding: 0;
+body { 
+  padding: 45px 0 0 0;
 }
