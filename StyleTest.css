@@ -49,11 +49,10 @@ h1, h2, h3, h4 { font-weight: 400; }
 }
 /* Top Navigation Bar */
 .navbar-fixed-top {
-  background: #F7F7F7;
   min-height: 0;
   height: 45px;
   padding: 5px 0;
-  margin-bottom: 0;
+  margin-bottom: 20px 0;
 }
 .navbar-header{
   height: 35px;
