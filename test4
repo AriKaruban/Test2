@@ -17,13 +17,11 @@ body, label, input, button, select {
   font-family: 'Cherry Swash',
   font-weight: 200;
 }
-@import url('//fonts.googleapis.com/css?family=Lobster|Cabin:400,700');
+@import url('https://fonts.googleapis.com/css?family=Cherry+Swash'|Cabin:400,700');
       
       h1 {
-        font-family: 'Lobster', cursive;
+        font-family: 'Cherry Swash', cursive;
         font-weight: 500;
-        line-height: 1.1;
-        color: #48ca3b;
       }
 h2, h3, h4 { font-weight: 500; }
 
