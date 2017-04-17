@@ -17,7 +17,7 @@ body, label, input, button, select {
   font-family: 'Cherry Swash',
   font-weight: 200;
 }
-@import url('https://fonts.googleapis.com/css?family=Cherry+Swash'|Cabin:400,700');
+@import url('https://fonts.googleapis.com/css?family=Cherry+Swash');
       
       h1 {
         font-family: 'Cherry Swash', cursive;
